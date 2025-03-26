@@ -34,3 +34,9 @@ Welcome to my GitHub profile! Here, you'll find my work on various coding challe
 
 ### 💡 **More to Come!**
 I'm actively learning and building new projects. Stay tuned for updates! If you find my work helpful, consider ⭐ starring my repositories! 😊🚀
+## 🌐 Connect with Me
+
+- 🔗 **GeeksForGeeks**: [View My Profile](https://www.geeksforgeeks.org/user/ankita5kfm/)
+- 🔗 **LinkedIn**: [Connect with Me](https://www.linkedin.com/in/ankita-n-a61b15326)
+- 🔗 **LeetCode**: [Check Out My Solutions](https://leetcode.com/u/ankita_n_19/)
+
